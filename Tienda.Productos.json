@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "68cc7e5b82bf96712ac80c41"
+  },
+  "id": 1,
+  "name": "Laptop",
+  "price": 1500,
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "68cc7e5b82bf96712ac80c42"
+  },
+  "id": 2,
+  "name": "Smartphone",
+  "price": 800,
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "68cc7e5b82bf96712ac80c43"
+  },
+  "id": 3,
+  "name": "Tablet",
+  "price": 400,
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "68cc7e5b82bf96712ac80c44"
+  },
+  "id": 4,
+  "name": "Monitor",
+  "price": 300,
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "68cc7e5b82bf96712ac80c45"
+  },
+  "id": 5,
+  "name": "Keyboard",
+  "price": 50,
+  "stock": 50
+}]

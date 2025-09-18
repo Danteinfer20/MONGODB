@@ -1,0 +1,8 @@
+clientes = [
+    {
+        "id": 1,
+        "name": "João Silva",
+        "email": "silva",
+        "phone": "3100-0000",
+        "address": "Rua A, 123"
+    },
