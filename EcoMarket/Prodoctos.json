@@ -1,0 +1,181 @@
+[
+    {
+        "nombre": "Manzanas Orgánicas",
+        "precio": 3500,
+        "categoria": "frutas",
+        "stock": 150,
+        "descripcion": "Deliciosas manzanas orgánicas frescas y crujientes, perfectas para un snack saludable.",
+        "fecha_vencimiento": "2024-12-31",
+        "tipo_cultivo": "Orgánico",
+        "proveedor": {
+            "nombre": "Finca La Esperanza",
+            "contacto": {
+                "telefono": "+57-301-2345678",
+                "email": "ventas@fincaesperanza.co",
+                "direccion": "Finca La Esperanza, Vereda El Rosal, Bogotá, Colombia"
+            },
+            "ciudad": "Bogotá"
+        }
+    },
+    {
+        "nombre": "Bananos Premium",
+        "precio": 2800,
+        "categoria": "frutas", 
+        "stock": 45,
+        "descripcion": "Bananos orgánicos maduros y dulces de primera calidad",
+        "fecha_vencimiento": "2024-11-30",
+        "tipo_cultivo": "Orgánico",
+        "proveedor": {
+            "nombre": "Frutas del Trópico",
+            "contacto": {
+                "telefono": "+57-312-5678901",
+                "email": "pedidos@frutastropico.co",
+                "direccion": "Km 15 Vía Bogotá-La Calera, Bogotá, Colombia"
+            },
+            "ciudad": "Bogotá"
+        }
+    },
+    {
+        "nombre": "Naranjas Valencia",
+        "precio": 3200,
+        "categoria": "frutas",
+        "stock": 80,
+        "descripcion": "Naranjas Valencia jugosas y dulces, ricas en vitamina C",
+        "fecha_vencimiento": "2024-12-15",
+        "tipo_cultivo": "Orgánico",
+        "proveedor": {
+            "nombre": "CitriCultivos del Valle",
+            "contacto": {
+                "telefono": "+57-320-1234567",
+                "email": "info@citricultivosvalle.co",
+                "direccion": "Hacienda Los Naranjos, Palmira, Valle del Cauca"
+            },
+            "ciudad": "Palmira"
+        }
+    },
+    {
+        "nombre": "Leche Entera Orgánica",
+        "precio": 4500,
+        "categoria": "lacteos",
+        "stock": 75,
+        "descripcion": "Leche entera orgánica fresca, de vacas alimentadas con pastos naturales",
+        "fecha_vencimiento": "2024-11-25",
+        "tipo": "Entera",
+        "proveedor": {
+            "nombre": "Lácteos Orgánicos del Norte",
+            "contacto": {
+                "telefono": "+57-315-9876543",
+                "email": "ventas@lacteosorganicos.co",
+                "direccion": "Granja San Martín, Zipaquirá, Cundinamarca"
+            },
+            "ciudad": "Zipaquirá"
+        }
+    },
+    {
+        "nombre": "Leche Deslactosada",
+        "precio": 5200,
+        "categoria": "lacteos",
+        "stock": 40,
+        "descripcion": "Leche deslactosada para personas con intolerancia a la lactosa, 100% natural",
+        "fecha_vencimiento": "2024-11-28",
+        "tipo": "Deslactosada",
+        "proveedor": {
+            "nombre": "Lácteos Especiales Bogotá",
+            "contacto": {
+                "telefono": "+57-310-4567890",
+                "email": "especialidades@lacteosbogota.co",
+                "direccion": "Carrera 45 #127-30, Bogotá, Colombia"
+            },
+            "ciudad": "Bogotá"
+        }
+    },
+    {
+        "nombre": "Yogurt Natural",
+        "precio": 3800,
+        "categoria": "lacteos",
+        "stock": 55,
+        "descripcion": "Yogurt natural sin azúcar añadida, con probióticos naturales",
+        "fecha_vencimiento": "2024-11-22",
+        "proveedor": {
+            "nombre": "Lácteos Especiales Bogotá",
+            "contacto": {
+                "telefono": "+57-310-4567890",
+                "email": "especialidades@lacteosbogota.co",
+                "direccion": "Carrera 45 #127-30, Bogotá, Colombia"
+            },
+            "ciudad": "Bogotá"
+        }
+    },
+    {
+        "nombre": "Queso Campesino",
+        "precio": 8500,
+        "categoria": "lacteos",
+        "stock": 25,
+        "descripcion": "Queso campesino artesanal elaborado con leche fresca",
+        "fecha_vencimiento": "2024-11-20",
+        "proveedor": {
+            "nombre": "Quesería La Sabana",
+            "contacto": {
+                "telefono": "+57-318-2468135",
+                "email": "artesanal@queseriasabana.co",
+                "direccion": "Vereda La Floresta, Chía, Cundinamarca"
+            },
+            "ciudad": "Chía"
+        }
+    },
+    {
+        "nombre": "Zanahorias Baby",
+        "precio": 2500,
+        "categoria": "verduras",
+        "stock": 120,
+        "descripcion": "Zanahorias baby tiernas y dulces, perfectas para ensaladas",
+        "fecha_vencimiento": "2024-11-30",
+        "tipo_cultivo": "Orgánico",
+        "proveedor": {
+            "nombre": "Huertas Verdes Sabana",
+            "contacto": {
+                "telefono": "+57-314-7531596",
+                "email": "huertas@verdesabana.co",
+                "direccion": "Finca El Verdor, Funza, Cundinamarca"
+            },
+            "ciudad": "Funza"
+        }
+    },
+    {
+        "nombre": "Lechuga Hidropónica",
+        "precio": 1800,
+        "categoria": "verduras",
+        "stock": 35,
+        "descripcion": "Lechuga crespa hidropónica, fresca y crujiente",
+        "fecha_vencimiento": "2024-11-18",
+        "tipo_cultivo": "Hidropónico",
+        "proveedor": {
+            "nombre": "AgroTech Bogotá",
+            "contacto": {
+                "telefono": "+57-317-8642097",
+                "email": "hidroponicos@agrotechbta.co",
+                "direccion": "Zona Industrial Fontibón, Bogotá, Colombia"
+            },
+            "ciudad": "Bogotá"
+        }
+    },
+    {
+        "nombre": "Tomates Cherry",
+        "precio": 4200,
+        "categoria": "verduras",
+        "stock": 60,
+        "descripcion": "Tomates cherry dulces y jugosos, cultivados orgánicamente",
+        "fecha_vencimiento": "2024-11-21",
+        "tipo_cultivo": "Orgánico",
+        "proveedor": {
+            "nombre": "Invernaderos del Sol",
+            "contacto": {
+                "telefono": "+57-319-9753186",
+                "email": "cherry@invernaderossol.co",
+                "direccion": "Km 8 Vía Tenjo-Tabio, Tenjo, Cundinamarca"
+            },
+            "ciudad": "Tenjo"
+        }
+    }
+]
+
